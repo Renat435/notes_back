@@ -1,6 +1,0 @@
-POSTGRES_DB: "notes_service"
-POSTGRES_USER: "akashi"
-POSTGRES_PASSWORD: "qwer"
-PORT: 5432
-HOST: "localhost"
-SECRET_KEY: "TJJFNsiifUUfjjssdddf"
